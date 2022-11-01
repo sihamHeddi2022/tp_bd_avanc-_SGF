@@ -1,0 +1,10 @@
+ABW,Aruba,North America,193,103000 
+AFG,Afghanistan,Asia,652090,22720000 
+AGO,Angola,Africa,1246700,12878000 
+AIA,Anguilla,North America,96,8000 
+ALB,Albania,Europe,28748,3401200 
+AND,Andorra,Europe,468,78000 
+ANT,Netherlands Antilles,North America,800,217000 
+ARE,United Arab Emirates,Asia,83600,2441000 
+ARG,Argentina,South America,2780400,37032000 
+ARM,Armenia,Asia,29800,3520000 
